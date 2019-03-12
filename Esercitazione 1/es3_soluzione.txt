@@ -1,0 +1,12 @@
+centri_aperti =
+
+     0
+     0
+     1
+     0
+     1
+
+
+costo =
+
+   540

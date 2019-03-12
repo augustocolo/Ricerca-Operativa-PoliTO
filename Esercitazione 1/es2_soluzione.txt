@@ -1,0 +1,11 @@
+mobili_prodotti =
+
+        1333
+           0
+        1000
+           0
+
+
+profitto =
+
+   2.4962e+05
